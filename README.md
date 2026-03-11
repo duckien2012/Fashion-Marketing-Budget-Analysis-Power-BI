@@ -295,32 +295,21 @@ The project uses a **galaxy schema** model consisting of:
 ---
 
 ### 1️⃣ Empathize  
-
-**Leadership needs:** - A quick snapshot of financial health: How much is spent on Marketing and how much Revenue is generated?
-- Evaluation of touchpoint quality: Where is the funnel leaking from Impression -> Click -> Inbox -> Order?
-- Optimization decisions: Where should we cut the budget, and which products/campaigns need scaling up?
+![5W1H Table](https://github.com/user-attachments/assets/b82349da-6ca8-473c-b0da-347b13a441b5)
+![Empathy Map](https://github.com/user-attachments/assets/0bf45418-9e67-40f1-83c8-4f3f81db5cc9)
 
 ---
 
 ### 2️⃣ Define Point of View  
-
-**The company must shift from "burning cash" on broad-stroke ads to allocating budgets based on the actual Return on Ad Spend (ROAS) of individual SKUs.**
-
-**Core problem:** _Marketing budget might be wasted on products that generate high clicks but low Conversion Rates (CVR), or there are severe bottlenecks in the final sales-closing process._
+![Stakeholders Journey](https://github.com/user-attachments/assets/fe0c9063-8378-4be4-aac6-f48a95413d7c)
+![Northstar Metrics](https://github.com/user-attachments/assets/7cffb78c-d941-4fad-aa9a-7905b715178c)
+![POV and Business Views](https://github.com/user-attachments/assets/126514ad-ced6-4d40-bb73-0a7fe66664b7)
 
 ---
 
 ### 3️⃣ Ideate  
-
-**Design 3 analytical layers:** 1. **Executive Summary** (Overall enterprise performance snapshot)  
-2. **Campaign Analysis** (Campaign health & Marketing Funnel breakdown)  
-3. **Product Analysis** (SKU-level performance evaluation)  
-
-**KPIs defined:** - Total Spend vs Budget
-- Total Revenue (Ads vs Direct Sales)
-- ROAS (Return On Ad Spend)
-- Overall CR (Conversion Rate)
-- CTR, CPC, CPM
+![Structure Idea](https://github.com/user-attachments/assets/90d51fee-d053-4e14-8669-efba6643ad13)
+![Visualization Idea](https://github.com/user-attachments/assets/e1e9fa4f-0bcd-4e8a-bd32-9229b600b1fa)
 
 ---
 
