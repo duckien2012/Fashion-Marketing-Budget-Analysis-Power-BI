@@ -300,10 +300,12 @@ The project uses a **galaxy schema** model consisting of:
 
 ---
 
-### 2️⃣ Define Point of View  
+### 2️⃣ Define Point of View 
 ![Stakeholders Journey](https://github.com/user-attachments/assets/fe0c9063-8378-4be4-aac6-f48a95413d7c)
+![Stage2](https://github.com/user-attachments/assets/1e39d486-6520-4fcf-97d7-c51081b75180)
+<!-- ![Stakeholders Journey](https://github.com/user-attachments/assets/fe0c9063-8378-4be4-aac6-f48a95413d7c)
 ![Northstar Metrics](https://github.com/user-attachments/assets/7cffb78c-d941-4fad-aa9a-7905b715178c)
-![POV and Business Views](https://github.com/user-attachments/assets/126514ad-ced6-4d40-bb73-0a7fe66664b7)
+![POV and Business Views](https://github.com/user-attachments/assets/126514ad-ced6-4d40-bb73-0a7fe66664b7) -->
 
 ---
 
