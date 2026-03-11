@@ -288,11 +288,7 @@ The project uses a **galaxy schema** model consisting of:
 
 ---
 
-## 🧠 Design Thinking Process  
-
-👉🏻 _[Insert the link to your Design Thinking table screenshot here (if available)]_  
-
----
+## 🧠 Design Thinking Process 
 
 ### 1️⃣ Empathize  
 ![5W1H Table](https://github.com/user-attachments/assets/b82349da-6ca8-473c-b0da-347b13a441b5)
@@ -316,12 +312,7 @@ The project uses a **galaxy schema** model consisting of:
 ---
 
 ### 4️⃣ Prototype & Review  
-
-**Implementation steps:** - ✔️ Executed ETL, separated Fact and Dimension tables (resolved budget duplication errors).
-- ✔️ Built relationship flows (Galaxy Schema) and wrote DAX Measures.
-- ✔️ Designed wireframes and developed Prototype Versions 1, 2, and 3.
-- ✔️ Refined the UI/UX with an elegant navy blue color palette.
-- ✔️ Created dynamic cross-filtering by Week, Day, and Category.
+This phase is implemented and validated directly within the interactive dashboard.
 
 ---
 
